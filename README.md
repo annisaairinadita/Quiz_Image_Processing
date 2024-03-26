@@ -1,1 +1,2 @@
-# Quiz_Image_Processing
+# Nama : Annisa Airinadita
+# NIM  : F55122030
